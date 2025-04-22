@@ -1,1 +1,1 @@
-# cammajorc.github.io
+# The Analyst Blogs
